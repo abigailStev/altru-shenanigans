@@ -6,3 +6,5 @@
 *checkpoint.ipynb
 *.csv
 Quarterly/.DS_Store
+.DS_Store
+*/.DS_Store
